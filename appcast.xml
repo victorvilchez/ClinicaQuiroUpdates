@@ -13,8 +13,8 @@
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             <enclosure
                 url="https://github.com/victorvilchez/ClinicaQuiroUpdates/releases/download/V2.0/ClinicaQuiro.zip"
-                sparkle:edSignature="MXPVFWWNwrmVDuq1lXjX8yp3jcvd2j134Z8dpKWJ+5pjIvJjdv+ru39mb2m4Lqqe1eZJhASe5KO4b+taMUpjBw=="
-                length="5833981"
+                sparkle:edSignature="sMm0dAQMj7x7XrwFtutDVFOwhHvf7GWE9hR+bfz+UuPR9WBVIPFG/5/150IybeTkaFGrNc52EjAGMRqR5vdtCg=="
+                length="5833978"
                 type="application/octet-stream"/>
         </item>
     </channel>
