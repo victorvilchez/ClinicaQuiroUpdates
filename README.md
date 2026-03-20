@@ -1,0 +1,2 @@
+# ClinicaQuiroUpdates
+UPDATES PARA CLINICA QUIRO APP
