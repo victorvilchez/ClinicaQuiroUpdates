@@ -6,15 +6,15 @@
         <description>Actualizaciones de ClinicaQuiro</description>
         <language>es</language>
         <item>
-            <title>Versión 7</title>
+            <title>Versión 7.5</title>
             <pubDate>Thu, 20 Mar 2026 09:00:00 +0000</pubDate>
-            <sparkle:version>8</sparkle:version> 
-            <sparkle:shortVersionString>2.5</sparkle:shortVersionString>
+            <sparkle:version>9</sparkle:version> 
+            <sparkle:shortVersionString>7.5</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             <enclosure
                 url="https://github.com/victorvilchez/ClinicaQuiroUpdates/releases/download/V7/ClinicaQuiro.zip"
-                sparkle:edSignature="TnanhW4smNZ4DO7n6yC5s+epTcT86tH1Hme/w8HRJ/J1anoinIn10APDN3gsVRVAXfDMreNeugVrUCD/6IleCg=="
-                length="6309262"
+                sparkle:edSignature="zAfknYyaNs4sNZm6KRuB6obdqOe2iefLqp0KiLYDeKgvle/S/FbykuX/jWibzMV83VJJ83rze+fFoWbDT9O7BQ=="
+                length="6337761"
                 type="application/octet-stream"/>
         </item>
     </channel>
