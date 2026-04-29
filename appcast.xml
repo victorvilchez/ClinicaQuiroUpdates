@@ -12,7 +12,7 @@
             <sparkle:shortVersionString>7.5</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             <enclosure
-                url="https://github.com/victorvilchez/ClinicaQuiroUpdates/releases/download/V7/ClinicaQuiro.zip"
+                url="https://github.com/victorvilchez/ClinicaQuiroUpdates/releases/download/V7.5/ClinicaQuiro.zip"
                 sparkle:edSignature="zAfknYyaNs4sNZm6KRuB6obdqOe2iefLqp0KiLYDeKgvle/S/FbykuX/jWibzMV83VJJ83rze+fFoWbDT9O7BQ=="
                 length="6337761"
                 type="application/octet-stream"/>
